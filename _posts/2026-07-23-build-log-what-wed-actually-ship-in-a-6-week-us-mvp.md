@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Build Log: What We'd Actually Ship in a 6-Week US MVP"
-date: 2026-07-23 09:00:00 +0000
+date: 2026-07-23 00:00:00 +0000
 categories: ["Startups", "Engineering", "AI"]
 tags: ["mvp", "startups", "ai-development", "build-log"]
 description: "A founder's build log on MVP development services in USA in 2026 - what we'd actually ship in six weeks, real costs, and where AI helps."
