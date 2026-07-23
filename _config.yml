@@ -1,0 +1,9 @@
+title: TechCirkle Blog
+description: >-
+  Software engineering and applied-AI insights from the TechCirkle team.
+theme: minima
+url: "https://techcirkle-ctrl.github.io"
+baseurl: "/techcirkle"
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
