@@ -4,6 +4,8 @@ description: >-
 theme: minima
 url: "https://techcirkle-ctrl.github.io"
 baseurl: "/techcirkle"
+future: true
+permalink: /:year/:month/:day/:title/
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
