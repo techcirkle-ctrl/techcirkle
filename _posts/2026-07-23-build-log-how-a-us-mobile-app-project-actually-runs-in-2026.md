@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Build Log: How a US Mobile App Project Actually Runs in 2026"
-date: 2026-07-23 09:00:00 +0000
+date: 2026-07-23 00:00:00 +0000
 categories: ["Mobile Development", "Engineering", "Startups"]
 tags: ["mobile-app-development", "usa", "ai-development", "build-log"]
 description: "A developer's build log on mobile app development services in USA in 2026 - how a real US app project runs, what it costs, and where AI fits."
