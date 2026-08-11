@@ -29,7 +29,7 @@ That distribution is the single most useful artefact in discovery, because it te
 
 **What it misses:** anything that did not touch a system. Every decision made in an email thread, every judgment call, every phone call to a supplier is invisible. In processes with meaningful human judgment, mining shows you the skeleton and none of the muscle.
 
-**Practical requirements:** a case identifier that survives across systems. This is the usual blocker. If your ERP calls it an order number, your ticketing system uses its own ID, and nothing links them, you are doing correlation work before you can mine anything. Budget for it.
+**Practical requirements:** a case identifier that survives across systems. This is the usual blocker. If your [ERP](https://techcirkle.com/blog/custom-erp-development) calls it an order number, your ticketing system uses its own ID, and nothing links them, you are doing correlation work before you can mine anything. Budget for it.
 
 A minimal event log needs only four fields:
 
@@ -85,6 +85,16 @@ It also gives you an honest coverage estimate before you commit. "We will automa
 Full guide — automation tiers, agent boundaries, exception architecture, ROI framing and a 12-week rollout blueprint: [Business Process Automation in 2026](https://techcirkle.com/blog/business-process-automation)
 
 TechCirkle: [AI development services](https://techcirkle.com/ai-development-services) | [custom software development](https://techcirkle.com/development/custom-software-development)
+
+## More from TechCirkle
+
+- [Agentic workflow development](https://techcirkle.com/agentic-workflow-development)
+- [Custom AI agent development](https://techcirkle.com/custom-ai-agent-development)
+- [Generative AI development services](https://techcirkle.com/generative-ai-development-services)
+- [LLM integration services](https://techcirkle.com/llm-integration)
+- [Enterprise AI development services](https://techcirkle.com/blog/enterprise-ai-development-services)
+- [Top AI automation tools for businesses](https://techcirkle.com/blog/top-ai-automation-tools-for-businesses)
+- [Digital transformation services](https://techcirkle.com/digital-transformation-services)
 
 ## Frequently Asked Questions
 
